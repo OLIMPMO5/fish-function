@@ -1,3 +1,3 @@
 # fish-function
 
-```funcsave addpaths; funcsave removepath```
+```funcsave addpath; funcsave removepath```
